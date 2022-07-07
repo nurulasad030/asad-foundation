@@ -1,0 +1,142 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+.hero {
+  background: linear-gradient(rgba(196, 171, 171, 0.2), rgba(0, 0, 0, 0.9)),
+    url(images/donation5.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  padding: 200px 0 200px 0;
+}
+h1 {
+  color: white;
+  font-size: 65px;
+  margin-bottom: 10px;
+}
+.hero-p {
+  color: white;
+}
+.hero-div {
+  margin: 0 auto 0 auto;
+  width: 50%;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.orange {
+  color: #d6c20c;
+}
+.hero-p {
+  margin-bottom: 50px;
+}
+.donate-btn {
+  text-decoration: none;
+  background-image: linear-gradient(orange, #ff6347);
+  color: aliceblue;
+  font-weight: bold;
+  padding: 10px 40px;
+  border-radius: 5px;
+}
+.donate-today {
+  margin: 0 auto 0 auto;
+  width: 50%;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.flexbox {
+  display: flex;
+}
+.amount-size {
+  font-size: 20px;
+  font-weight: 800;
+  color: rgb(133, 141, 141);
+  margin: 0 auto 0 auto;
+  width: 50%;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.div-box {
+  background-color: rgb(233, 229, 224);
+  padding: 15px;
+  margin: 10px;
+  border-radius: 3px;
+}
+.div-box1 {
+  border: 3px solid #d6c20c;
+  color: #d6c20c;
+}
+input {
+  font-size: 20px;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  background-color: #eee;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  width: 50%;
+  text-align: center;
+}
+
+.donate-plan-div1 {
+  margin: 0 auto 0 auto;
+  width: 50%;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.donate-plan-box {
+  width: 100%;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 5px;
+  height: 300px;
+  padding: 30px;
+}
+.box-1 {
+  margin-left: 15%;
+  background-color: rgb(97, 209, 209);
+}
+.box-2 {
+  background-color: rgb(159, 172, 102);
+}
+.box-3 {
+  margin-right: 15%;
+  background-color: rgb(194, 118, 160);
+}
+h2 {
+  font-size: 45px;
+  font-weight: 600;
+}
+.input-box {
+  margin-bottom: 30px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 10%;
+}
+.donate-plan {
+  margin-bottom: 60px;
+}
+.extra {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  width: 90%;
+}
+.bg-section {
+  background-color: #f5ef96ab;
+  padding: 10px;
+}
+.img-1 {
+  width: 850px;
+}
+.img-13 {
+  width: 850px;
+}
+.btn-gap {
+  margin-top: 50px;
+}
