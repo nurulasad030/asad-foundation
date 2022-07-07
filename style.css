@@ -60,14 +60,14 @@ h1 {
   text-align: center;
 }
 .div-box {
-  background-color: rgb(233, 229, 224);
+  background-color: #e0e0e0;
   padding: 15px;
   margin: 10px;
   border-radius: 3px;
 }
 .div-box1 {
-  border: 3px solid #d6c20c;
-  color: #d6c20c;
+  border: 2px solid #ff8b1c;
+  color: #ff8b1c;
 }
 .donation-input {
   font-size: 20px;
@@ -150,7 +150,7 @@ h2 {
 .email-box {
   padding: 50px;
   background-color: rgba(255, 192, 203, 0.589);
-  margin: 0;
+  margin-top: 40px;
   margin-bottom: 50px;
 }
 #email {
