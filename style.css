@@ -69,7 +69,7 @@ h1 {
   border: 3px solid #d6c20c;
   color: #d6c20c;
 }
-input {
+.donation-input {
   font-size: 20px;
   border-top-style: hidden;
   border-right-style: hidden;
@@ -139,4 +139,51 @@ h2 {
 }
 .btn-gap {
   margin-top: 50px;
+}
+.newslatter {
+  margin: 0 auto 0 auto;
+  width: 50%;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.email-box {
+  padding: 50px;
+  background-color: rgba(255, 192, 203, 0.589);
+  margin: 0;
+  margin-bottom: 50px;
+}
+#email {
+  background-color: #d9d9d9;
+  font-size: 22px;
+  padding: 8px;
+  border: none;
+  border-radius: 3px;
+  margin: 0;
+}
+#subscribe {
+  background-color: #ff5959;
+  font-size: 22px;
+  padding: 8px;
+  border: none;
+  border-radius: 3px;
+  margin: 0;
+}
+footer {
+  background-color: #0b0d17;
+}
+footer div h2 {
+  font-family: "Lobster", cursive;
+  color: #ff5959;
+  font-size: 30px;
+}
+footer div p {
+  color: #d9d9d9;
+}
+.footer-div {
+  margin: 0 auto 0 auto;
+  width: 50%;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  text-align: center;
 }
